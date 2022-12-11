@@ -1,0 +1,3 @@
+C:/Debug/ABC_HomeWork4/cmake-build-debug/CMakeFiles/ABC_HomeWork4.dir
+C:/Debug/ABC_HomeWork4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Debug/ABC_HomeWork4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

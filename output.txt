@@ -1,0 +1,42 @@
+Thread 0 was started
+Thread 1 was started
+Thread 2 was started
+Thread 3 was started
+Thread 4 was started
+Thread 5 was started
+Thread 6 was started
+Thread 7 was started
+Thread 8 was started
+Thread 9 was started
+Thread 10 was started
+Thread 11 was started
+Thread 12 was started
+Thread num 13 found that!
+Thread 13 was started
+Thread 14 was started
+Thread 15 was started
+Thread 16 was started
+Thread 17 was started
+Thread 18 was started
+Thread 19 was started
+Thread 0 has finished execution!
+Thread 1 has finished execution!
+Thread 2 has finished execution!
+Thread 3 has finished execution!
+Thread 4 has finished execution!
+Bees found bear in row 12 and column 2
+Thread 5 has finished execution!
+Thread 6 has finished execution!
+Thread 7 has finished execution!
+Thread 8 has finished execution!
+Thread 9 has finished execution!
+Thread 10 has finished execution!
+Thread 11 has finished execution!
+Thread 12 has finished execution!
+Thread 13 has finished execution!
+Thread 14 has finished execution!
+Thread 15 has finished execution!
+Thread 16 has finished execution!
+Thread 17 has finished execution!
+Thread 18 has finished execution!
+Thread 19 has finished execution!
